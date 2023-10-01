@@ -1,5 +1,8 @@
 # Chapter One: Fullfilling Pre-ATT&CK Objectives
----
+
+## Description:
+Exploring the use of Python for Active Scanning and Search Open Technical Database Techniques 
+
 ## MITRE Pre-ATT&CK Matrix: 
 - Reconnaissance
 - Resource Development
