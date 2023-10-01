@@ -21,3 +21,10 @@ Exploring the use of Python for Active Scanning and Search Open Technical Databa
 - Handling DNS Request
 - Building a DNS Response
 - Suggested Exercises
+
+## Notable Callouts:
+- I needed to download npcap on my computer with "Winpcap compatibility mode" check off during installation mode. This allowed me to start scanning networks. If you are running on Linux you should be able to install libpcap to get this file working. 
+
+## Libraries / Modules Needed:
+- Scapy
+- Npcap(Windows), Libpcap(Linux)
